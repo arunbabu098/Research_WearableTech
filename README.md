@@ -1,4 +1,4 @@
-# Wearable Technology for Manufacturing Productivity in India: An Analytical Study 
+# Research: Impact of Wearable Tech on Manufacturing
 
 ## Introduction
 
