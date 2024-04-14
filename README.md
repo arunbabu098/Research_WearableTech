@@ -1,4 +1,4 @@
-# Research: Impact of Wearable Tech on Manufacturing
+# Data Driven Research: Impact of Wearable Tech on Manufacturing
 
 ## Introduction
 
